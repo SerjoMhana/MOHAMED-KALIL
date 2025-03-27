@@ -1,13 +1,15 @@
-<template>
-    <div>
-
-    </div>
-</template>
-
 <script setup>
+
+import Hero from '../Components/Hero/Hero.vue'
 
 </script>
 
-<style lang="scss" scoped>
+<template>
+    <!-- <Hero/> -->
+</template>
 
+
+
+<style>
+    
 </style>
